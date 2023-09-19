@@ -2,7 +2,7 @@ Hi 👋, I'm Mateusz
 </hr>
 A passionate python developer
 
-- 👯 I’m looking to collaborate with other Python enthusiats.
+- I’m looking to collaborate with other Python enthusiats.
 - ⚡ Fun fact **Coding has over 700 languages.**
 
 >“The Internet?  We are not interested in it.”
